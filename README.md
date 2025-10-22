@@ -1,104 +1,79 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
-  Hello World! I'm Jiaxing Li
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
-</h1>
-
-<h3 align="center">🚀 Quantitative Developer & Data Science Researcher | HFT & Algorithmic Trading Enthusiast 🚀</h3>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=1200&height=80&lines=Low+Latency+Systems+Architect;Quantitative+Strategies+Developer;High-Frequency+Trading+Researcher;Data+Science+Master+Candidate+@CUHKSZ)](https://git.io/typing-svg)
-
-</div>
+<!-- Dynamic Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=600&center=true&multiline=true&random=false&width=1200&height=100&lines=Welcome+to+Jiaxing's+Zone!!!;Hello,+World!+👋;Quantitative+Research+%26+High-Frequency+Trading+Lab)](https://git.io/typing-svg)
 
 ---
 
-## 📊 Research & Development Focus
+<h2 align="center">🚀 Jiaxing Li | Data Scientist & Quant Developer</h2>
 
-<div align="center">
-
-| **High-Frequency Trading** | **Algorithmic Strategies** | **System Architecture** |
-|:--------------------------:|:--------------------------:|:-----------------------:|
-| 🏎️ Ultra-low Latency Systems | 📈 CTA & Market Making | ⚡ Real-time Data Pipelines |
-| 🔬 Signal Research | 🤖 Execution Algorithms | 🏗️ Microservices Design |
-| 📊 Market Data Analysis | 💹 Crypto Derivatives | 🔧 Performance Optimization |
-
-</div>
+<p align="center">
+🎓 M.Sc. in Data Science @ The Chinese University of Hong Kong (Shenzhen)  
+💻 Quantitative Researcher • HFT Systems • Crypto Market Microstructure  
+</p>
 
 ---
 
-## 🛠️ Technology Stack & Tools
+### 🧠 Research Interests
 
-### **🦀 Systems Programming**
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)](https://www.rust-lang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)](https://isocpp.org/)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-
-### **🐍 Data Science & Analytics**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-
-### **📈 Quantitative Finance**
-[![QuantConnect](https://img.shields.io/badge/QuantConnect-F5AE29?style=for-the-badge&logo=quantconnect&logoColor=black)](https://www.quantconnect.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-### **🗄️ Databases & Messaging**
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### **⚡ Infrastructure & DevOps**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+- ⚡ **High-Frequency Trading System Design and Implementation**
+- 🧩 **Signal Research & Execution Algorithms**
+- 💹 **CTA / Market Making Strategies (esp. in crypto markets)**
+- 🧮 **Market Microstructure & Feature Engineering**
 
 ---
 
-## 📈 GitHub Analytics
+### ⚙️ Tech Stack
 
-<div align="center">
-
-<a href="https://github.com/JosephLee03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosephLee03&show_icons=true&theme=radical&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&layout=compact&theme=radical&title_color=00D4FF&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8" />
-</a>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JosephLee03&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+### 📊 GitHub Analytics
 
-```rust
-#[derive(Debug)]
-struct CurrentFocus {
-    research_areas: Vec<&'static str>,
-    technologies: Vec<&'static str>,
-    projects: Vec<&'static str>,
-}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephLee03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" height="165"/>
+</p>
 
-impl Default for CurrentFocus {
-    fn default() -> Self {
-        Self {
-            research_areas: vec![
-                "HFT Signal Research",
-                "Market Microstructure",
-                "Execution Algorithms",
-            ],
-            technologies: vec![
-                "Rust for low-latency systems",
-                "Python for quantitative research",
-                "Real-time data processing",
-            ],
-            projects: vec![
-                "High-frequency trading simulator",
-                "Market data infrastructure",
-                "Quantitative strategy backtesting",
-            ],
-        }
-    }
-}
+---
+
+### ⚙️ Projects & Research Repos
+
+🔹 **[High-Frequency Trading Simulation Framework (Rust/Python)](https://github.com/JosephLee03/HFT-Simulator)**  
+🔹 **[Quant Signals via Genetic Programming](https://github.com/JosephLee03/GP-FactorMining)**  
+🔹 **[CTA Strategy Backtest & Execution Engine](https://github.com/JosephLee03/CTA-Engine)**  
+
+> 🧩 Each project integrates *data-driven signal design, execution modeling, and risk-adjusted evaluation*.
+
+---
+
+### 🧭 About Me
+
+- 🔬 I’m currently focusing on **real-time factor discovery** for high-frequency crypto futures.  
+- 🧠 I enjoy **low-latency system design** and **quantitative model optimization**.  
+- 📨 Reach me at: [jiaxingli1@link.cuhk.edu.cn](mailto:jiaxingli1@link.cuhk.edu.cn)  
+- 🌐 Portfolio (Coming soon): *jiaxingli.dev*  
+
+---
+
+### 🛰️ Fun Zone
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephLee03&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosephLee03&label=Visitors&color=00BFFF&style=flat-square" alt="visitor badge"/>
+</p>
+
+---
+
+💬 *“Code what you trade. Trade what you code.”*  
+🚀 *Building intelligent trading systems — one commit at a time.*
