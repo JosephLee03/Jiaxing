@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=600&center=true&multiline=true&random=false&width=1200&height=100&lines=Welcome+to+Joseph's+zone!!!;Hello+World!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=600&center=true&multiline=true&random=false&width=1200&height=100&lines=Welcome+to+Jiaxing's+zone!!!;Hello+World!!!)](https://git.io/typing-svg)
 
 ### 👋👋Hi, I'm Jiaxing. Nice to meet you!!!👋👋
 - 🔭 I am a Master's student in Data Science at The Chinese University of Hong Kong, Shenzhen.
