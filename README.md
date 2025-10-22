@@ -16,23 +16,18 @@
 </div>
 
 ---
-<h2 align="center">🎓 Academic Background</h2>
+## 🎓 Academic Background
 
-<p align="center">
-  <b>The Chinese University of Hong Kong, Shenzhen</b><br>
-  <i>Master in Data Science</i><br>
-  📧 <a href="mailto:jiaxingli1@link.cuhk.edu.cn">jiaxingli1@link.cuhk.edu.cn</a>
-</p>
+> **The Chinese University of Hong Kong, Shenzhen**  
+> _Master in Data Science_  
+> 📧 [jiaxingli1@link.cuhk.edu.cn](mailto:jiaxingli1@link.cuhk.edu.cn)
 
-<p align="center">
-  <b>Harbin Institute of Technology</b><br>
-  <i>Bachelor in Information Management & Information Systems</i>
-</p>
+> **Harbin Institute of Technology**  
+> _Bachelor in Information Management & Information Systems_
 
-<p align="center">
-  <b>Focus:</b> Quantitative Modeling · Market Microstructure · Intelligent Execution Systems
-</p>
+**Focus:** Quantitative Modeling · Market Microstructure · Intelligent Execution Systems
 ---
+
 
 
 ## 🧭 Research & Interests
