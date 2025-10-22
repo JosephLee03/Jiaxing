@@ -16,12 +16,14 @@
 </div>
 
 ---
-
 ## 🎓 Academic Background
 
-> _M.Sc. in Data Science_  
-> **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**  
-> School of Data Science · [https://sds.cuhk.edu.cn](https://sds.cuhk.edu.cn)
+> **M.Sc. Data Science**  
+> The Chinese University of Hong Kong, Shenzhen  
+> `jiaxingli1@link.cuhk.edu.cn`
+
+> **B.Man. Information Management & Information Systems**  
+> Harbin Institute of Technology
 
 Focus: Quantitative Modeling · Market Microstructure · Intelligent Execution Systems
 
