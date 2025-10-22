@@ -1,79 +1,88 @@
-<!-- Dynamic Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=600&center=true&multiline=true&random=false&width=1200&height=100&lines=Welcome+to+Jiaxing's+Zone!!!;Hello,+World!+👋;Quantitative+Research+%26+High-Frequency+Trading+Lab)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" />
+  Hi, I'm <strong>Jiaxing Li</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" />
+</h1>
+
+<h3 align="center">
+  Quantitative Developer & Data Science Researcher · Exploring Markets, Systems, and Signals
+</h3>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Designing+low-latency+systems.;Researching+quantitative+signals.;Bridging+code+and+market+intuition.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<h2 align="center">🚀 Jiaxing Li | Data Scientist & Quant Developer</h2>
+## 🧭 Research & Interests
 
-<p align="center">
-🎓 M.Sc. in Data Science @ The Chinese University of Hong Kong (Shenzhen)  
-💻 Quantitative Researcher • HFT Systems • Crypto Market Microstructure  
-</p>
+> “Where market dynamics meet system design.”
 
----
+<div align="center">
 
-### 🧠 Research Interests
+| **Quant Research** | **Systems & Infrastructure** | **Execution & Modeling** |
+|:------------------:|:-----------------------------:|:-------------------------:|
+| 📊 HFT Signal Discovery | ⚙️ Rust / C++ Low-latency Systems | 💹 Algorithmic Execution |
+| 🔬 Market Microstructure | ☁️ Distributed Event Processing | 🤖 Simulation & Backtesting |
+| 🧠 Reinforcement Learning | 🧩 Streaming Architecture | ⚡ Real-time Decision Systems |
 
-- ⚡ **High-Frequency Trading System Design and Implementation**
-- 🧩 **Signal Research & Execution Algorithms**
-- 💹 **CTA / Market Making Strategies (esp. in crypto markets)**
-- 🧮 **Market Microstructure & Feature Engineering**
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+<div align="center">
 
----
+#### **Core Languages**
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-### 📊 GitHub Analytics
+#### **Quant Tools**
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephLee03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" height="165"/>
-</p>
+#### **Systems**
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
----
-
-### ⚙️ Projects & Research Repos
-
-🔹 **[High-Frequency Trading Simulation Framework (Rust/Python)](https://github.com/JosephLee03/HFT-Simulator)**  
-🔹 **[Quant Signals via Genetic Programming](https://github.com/JosephLee03/GP-FactorMining)**  
-🔹 **[CTA Strategy Backtest & Execution Engine](https://github.com/JosephLee03/CTA-Engine)**  
-
-> 🧩 Each project integrates *data-driven signal design, execution modeling, and risk-adjusted evaluation*.
+</div>
 
 ---
 
-### 🧭 About Me
+## 📈 Current Research Snapshot
 
-- 🔬 I’m currently focusing on **real-time factor discovery** for high-frequency crypto futures.  
-- 🧠 I enjoy **low-latency system design** and **quantitative model optimization**.  
-- 📨 Reach me at: [jiaxingli1@link.cuhk.edu.cn](mailto:jiaxingli1@link.cuhk.edu.cn)  
-- 🌐 Portfolio (Coming soon): *jiaxingli.dev*  
+```rust
+#[derive(Debug)]
+struct ResearchFocus {
+    themes: [&'static str; 3],
+    methods: [&'static str; 3],
+    goals: [&'static str; 2],
+}
 
----
-
-### 🛰️ Fun Zone
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephLee03&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JosephLee03&label=Visitors&color=00BFFF&style=flat-square" alt="visitor badge"/>
-</p>
-
----
-
-💬 *“Code what you trade. Trade what you code.”*  
-🚀 *Building intelligent trading systems — one commit at a time.*
+impl Default for ResearchFocus {
+    fn default() -> Self {
+        Self {
+            themes: [
+                "High-Frequency Signal Research",
+                "Market Microstructure Analysis",
+                "Execution Algorithm Design",
+            ],
+            methods: [
+                "Genetic Programming for feature discovery",
+                "Probabilistic execution modeling",
+                "Latency-sensitive systems in Rust",
+            ],
+            goals: [
+                "Unify strategy logic and execution efficiency",
+                "Bridge research models with live systems",
+            ],
+        }
+    }
+}
